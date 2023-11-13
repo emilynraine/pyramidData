@@ -1,0 +1,2022 @@
+{
+  "England": {
+    "English Premier League": {
+      "Teams": {
+        "Arsenal": {
+          "Players": [
+            {
+              "Name": "Pierre-Emerick Aubameyang",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Bukayo Saka",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Emile Smith Rowe",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Thomas Partey",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Alexandre Lacazette",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Kieran Tierney",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Ben White",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Granit Xhaka",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Aaron Ramsdale",
+              "Position": "Goalkeeper"
+            }
+          ],
+          "Coach": "Mikel Arteta",
+          "Stadium": "Emirates Stadium"
+        },
+        "Chelsea": {
+          "Players": [
+            {
+              "Name": "Mason Mount",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "N'Golo Kanté",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Timo Werner",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Cesar Azpilicueta",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Edouard Mendy",
+              "Position": "Goalkeeper"
+            }
+          ],
+          "Coach": "Thomas Tuchel",
+          "Stadium": "Stamford Bridge"
+        },
+        "Manchester United": {
+          "Players": [
+            {
+              "Name": "Bruno Fernandes",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Cristiano Ronaldo",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Marcus Rashford",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Paul Pogba",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Harry Maguire",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Ole Gunnar Solskjær",
+          "Stadium": "Old Trafford"
+        },
+        "Liverpool": {
+          "Players": [
+            {
+              "Name": "Mohamed Salah",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Sadio Mané",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Virgil van Dijk",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Jordan Henderson",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Alisson Becker",
+              "Position": "Goalkeeper"
+            }
+          ],
+          "Coach": "Jürgen Klopp",
+          "Stadium": "Anfield"
+        },
+        "Manchester City": {
+          "Players": [
+            {
+              "Name": "Kevin De Bruyne",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Raheem Sterling",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Ruben Dias",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Phil Foden",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Ederson Moraes",
+              "Position": "Goalkeeper"
+            }
+          ],
+          "Coach": "Pep Guardiola",
+          "Stadium": "Etihad Stadium"
+        }
+      }
+    },
+    "EFL Championship": {
+      "Teams": {
+        "Leeds United": {
+          "Players": [
+            {
+              "Name": "Patrick Bamford",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Kalvin Phillips",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Liam Cooper",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Raphinha",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Stuart Dallas",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Diego Llorente",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Illan Meslier",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Pascal Struijk",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Junior Firpo",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Robin Koch",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Marcelo Bielsa",
+          "Stadium": "Elland Road"
+        },
+        "Fulham": {
+          "Players": [
+            {
+              "Name": "Tom Cairney",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Aleksandar Mitrović",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Harrison Reed",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Kenny Tete",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Marek Rodák",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Antonee Robinson",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Joe Bryan",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Ademola Lookman",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Michael Hector",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Fabio Carvalho",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Marco Silva",
+          "Stadium": "Craven Cottage"
+        },
+        "West Bromwich Albion": {
+          "Players": [
+            {
+              "Name": "Matt Phillips",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Karlan Grant",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jake Livermore",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Darnell Furlong",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Sam Johnstone",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Conor Townsend",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Callum Robinson",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Branislav Ivanović",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Semi Ajayi",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Conor Gallagher",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Valérien Ismaël",
+          "Stadium": "The Hawthorns"
+        },
+        "Stoke City": {
+          "Players": [
+            {
+              "Name": "Joe Allen",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Steven Fletcher",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Nick Powell",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "James Chester",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Adam Davies",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Tommy Smith",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Tom Ince",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Harry Souttar",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Tyrese Campbell",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Ben Wilmot",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Michael O'Neill",
+          "Stadium": "bet365 Stadium"
+        },
+        "Nottingham Forest": {
+          "Players": [
+            {
+              "Name": "Joe Lolley",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Lewis Grabban",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Ryan Yates",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Cyrus Christie",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Brice Samba",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Scott McKenna",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Brennan Johnson",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Tobias Figueiredo",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Loic Mbe Soh",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Cafu",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Steve Cooper",
+          "Stadium": "The City Ground"
+        }
+      }
+    },
+    "EFL League One": {
+      "Teams": {
+        "Sunderland": {
+          "Players": [
+            {
+              "Name": "Aiden McGeady",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Lynden Gooch",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Charlie Wyke",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Luke O'Nien",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Lee Burge",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Jordan Willis",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Denver Hume",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Josh Scowen",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Bailey Wright",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Grant Leadbitter",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Lee Johnson",
+          "Stadium": "Stadium of Light"
+        },
+        "Portsmouth": {
+          "Players": [
+            {
+              "Name": "Ronan Curtis",
+              "Position": "Forward"
+            },
+            {
+              "Name": "John Marquis",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Tom Naylor",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Lee Brown",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Craig MacGillivray",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Jack Whatmough",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Marcus Harness",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Ryan Williams",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Callum Johnson",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Andy Cannon",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Danny Cowley",
+          "Stadium": "Fratton Park"
+        },
+        "Ipswich Town": {
+          "Players": [
+            {
+              "Name": "James Norwood",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Gwion Edwards",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Kane Vincent-Young",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Tomas Holy",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Teddy Bishop",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Macauley Bonne",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Myles Kenlock",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Luke Woolfenden",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Armando Dobra",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Paul Cook",
+          "Stadium": "Portman Road Stadium"
+        },
+        "Peterborough United": {
+          "Players": [
+            {
+              "Name": "Jonson Clarke-Harris",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Sammie Szmodics",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Mark Beevers",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Christy Pym",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Jack Taylor",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Nathan Thompson",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Joe Ward",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Dan Butler",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Harrison Burrows",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Darren Ferguson",
+          "Stadium": "Weston Homes Stadium"
+        },
+        "Oxford United": {
+          "Players": [
+            {
+              "Name": "Matt Taylor",
+              "Position": "Forward"
+            },
+            {
+              "Name": "James Henry",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Sam Long",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Jack Stevens",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Cameron Brannagan",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Josh Ruffels",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Mide Shodipo",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Elliott Moore",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Rob Atkinson",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Karl Robinson",
+          "Stadium": "Kassam Stadium"
+        }
+      }
+    },
+    "EFL League Two": {
+      "Teams": {
+        "Swindon Town": {
+          "Players": [
+            {
+              "Name": "Jonny Smith",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Scott Twine",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Mathieu Baudry",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Conrad Logan",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Jack Payne",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Akin Odimayo",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Joel Grant",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Taylor Curran",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Ben Garner",
+          "Stadium": "County Ground"
+        },
+        "Exeter City": {
+          "Players": [
+            {
+              "Name": "Matt Jay",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jake Taylor",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Pierce Sweeney",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Jonny Maxted",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Nicky Law",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jack Sparkes",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Archie Collins",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Tom Parkes",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Matt Taylor",
+          "Stadium": "St. James Park"
+        },
+        "Plymouth Argyle": {
+          "Players": [
+            {
+              "Name": "Luke Jephcott",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Conor Grant",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Kelland Watts",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Mike Cooper",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Danny Mayor",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Adam Lewis",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Ryan Hardie",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Macaulay Gillesphey",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Ryan Lowe",
+          "Stadium": "Home Park Stadium"
+        },
+        "Grimsby Town": {
+          "Players": [
+            {
+              "Name": "James Tilley",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Lenell John-Lewis",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Luke Waterfall",
+              "Position": "Defender"
+            },
+            {
+              "Name": "James McKeown",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Elliott Hewitt",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Mattie Pollock",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Evan Khouri",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Sylvester Jasper",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Paul Hurst",
+          "Stadium": "Blundell Park"
+        },
+        "Forest Green Rovers": {
+          "Players": [
+            {
+              "Name": "Jamille Matt",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Elliott Whitehouse",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Liam Kitching",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Luke McGee",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Odin Bailey",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Nick Cadden",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Nicky Cofie",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jordan Moore-Taylor",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Rob Edwards",
+          "Stadium": "New Lawn Stadium"
+        }
+      }
+    }
+  },
+  "Germany": {
+    "Bundesliga": {
+      "Teams": {
+        "Bayern Munich": {
+          "Players": [
+            {
+              "Name": "Robert Lewandowski",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Thomas Müller",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Joshua Kimmich",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Manuel Neuer",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Leon Goretzka",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Lucas Hernández",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Leroy Sané",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Niklas Süle",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Kingsley Coman",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Serge Gnabry",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Julian Nagelsmann",
+          "Stadium": "Allianz Arena"
+        },
+        "Borussia Dortmund": {
+          "Players": [
+            {
+              "Name": "Erling Haaland",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Marco Reus",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jadon Sancho",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Roman Bürki",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Axel Witsel",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Mats Hummels",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Giovanni Reyna",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Manuel Akanji",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Raphaël Guerreiro",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Thorgan Hazard",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Marco Rose",
+          "Stadium": "Signal Iduna Park"
+        },
+        "RB Leipzig": {
+          "Players": [
+            {
+              "Name": "Emil Forsberg",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Yussuf Poulsen",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Marcel Sabitzer",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Péter Gulácsi",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Christopher Nkunku",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Dayot Upamecano",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Dani Olmo",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Willi Orban",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Lukas Klostermann",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Hee-chan Hwang",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Jesse Marsch",
+          "Stadium": "Red Bull Arena"
+        },
+        "Borussia Mönchengladbach": {
+          "Players": [
+            {
+              "Name": "Alassane Pléa",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Florian Neuhaus",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jonas Hofmann",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Yann Sommer",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Nico Elvedi",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Marcus Thuram",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Denis Zakaria",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Matthias Ginter",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Ramy Bensebaini",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Adi Hütter",
+          "Stadium": "Borussia-Park"
+        },
+        "FC Schalke 04": {
+          "Players": [
+            {
+              "Name": "Mark Uth",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Amine Harit",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Omar Mascarell",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Ralf Fährmann",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Benjamin Stambouli",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Nabil Bentaleb",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Klaas-Jan Huntelaar",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Salif Sané",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Nassim Boujellab",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Grammozis Dimitrios",
+          "Stadium": "VELTINS-Arena"
+        }
+      }
+    },
+    "2. Bundesliga": {
+      "Teams": {
+        "Hamburger SV": {
+          "Players": [
+            {
+              "Name": "Simon Terodde",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Sonny Kittel",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Moritz Heyer",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Sven Ulreich",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "David Kinsombi",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jeremy Dudziak",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Manuel Wintzheimer",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Tim Leibold",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Bakery Jatta",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Tim Walter",
+          "Stadium": "Volksparkstadion"
+        },
+        "VfB Stuttgart": {
+          "Players": [
+            {
+              "Name": "Sasa Kalajdzic",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Wataru Endo",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Gonzalo Castro",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Gregor Kobel",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Borna Sosa",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Nicolas Gonzalez",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Erik Thommy",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Konstantinos Mavropanos",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Santiago Ascacibar",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Pellegrino Matarazzo",
+          "Stadium": "Mercedes-Benz Arena"
+        },
+        "1. FC Köln": {
+          "Players": [
+            {
+              "Name": "Sebastian Andersson",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Elvis Rexhbecaj",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jonas Hector",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Timo Horn",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Ismaël Jakobs",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jannes Horn",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Ondrej Duda",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Rafael Czichos",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Dominick Drexler",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Steffen Baumgart",
+          "Stadium": "RheinEnergieStadion"
+        },
+        "Holstein Kiel": {
+          "Players": [
+            {
+              "Name": "Janni Serra",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Fin Bartels",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Hauke Wahl",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Thomas Dähne",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Niklas Hauptmann",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Phil Neumann",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Fabian Reese",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Marco Komenda",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Tomas Oral",
+          "Stadium": "Holstein-Stadion"
+        },
+        "Arminia Bielefeld": {
+          "Players": [
+            {
+              "Name": "Fabian Klos",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Ritsu Doan",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Joan Simun Edmundsson",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Stefan Ortega Moreno",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Nathan de Medina",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Cedric Brunner",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Anderson Lucoqui",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Manuel Prietl",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Frank Kramer",
+          "Stadium": "Schüco Arena"
+        }
+      }
+    }
+  },
+  "France": {
+    "Ligue 1": {
+      "Teams": {
+        "Paris Saint-Germain": {
+          "Players": [
+            {
+              "Name": "Lionel Messi",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Neymar",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Kylian Mbappé",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Keylor Navas",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Marco Verratti",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Achraf Hakimi",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Leandro Paredes",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Marquinhos",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Presnel Kimpembe",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Mauricio Pochettino",
+          "Stadium": "Parc des Princes"
+        },
+        "Olympique de Marseille": {
+          "Players": [
+            {
+              "Name": "Dimitri Payet",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Arkadiusz Milik",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Gerson",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Steve Mandanda",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Boubacar Kamara",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "William Saliba",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Valère Germain",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Alvaro Gonzalez",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Jorge Sampaoli",
+          "Stadium": "Orange Vélodrome"
+        },
+        "Olympique Lyonnais": {
+          "Players": [
+            {
+              "Name": "Memphis Depay",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Houssem Aouar",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Karl Toko Ekambi",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Anthony Lopes",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Maxence Caqueret",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jason Denayer",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Lucas Paquetá",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Marcelo",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Peter Bosz",
+          "Stadium": "Parc Olympique Lyonnais"
+        },
+        "AS Monaco": {
+          "Players": [
+            {
+              "Name": "Wissam Ben Yedder",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Kevin Volland",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Aurélien Tchouaméni",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Alexander Nübel",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Cesc Fàbregas",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Guillermo Maripán",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Sofiane Diop",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Djibril Sidibé",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Niko Kovač",
+          "Stadium": "Stade Louis II"
+        },
+        "OGC Nice": {
+          "Players": [
+            {
+              "Name": "Amine Gouiri",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Kasper Dolberg",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Hichem Boudaoui",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Walter Benítez",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Rony Lopes",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jean-Clair Todibo",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Jordan Lotomba",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Stanley Nsoki",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Christophe Galtier",
+          "Stadium": "Allianz Riviera"
+        }
+      }
+    },
+    "Ligue 2": {
+      "Teams": {
+        "Toulouse FC": {
+          "Players": [
+            {
+              "Name": "Rhys Healey",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Stijn Spierings",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Deiver Machado",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Maxime Dupé",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Manu Koné",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Kelvin Amian",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Branco van den Boomen",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Amadou Soukouna",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Philippe Montanier",
+          "Stadium": "Stadium de Toulouse"
+        },
+        "Grenoble Foot 38": {
+          "Players": [
+            {
+              "Name": "Mamadou Diallo",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Adrien Monfray",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Manu Pérez",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Brice Maubleu",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Willy Semedo",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Loic Nestor",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Harouna Abou Demba",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jules Sylvestre-Brac",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Maurizio Jacobacci",
+          "Stadium": "Stade des Alpes"
+        },
+        "AJ Auxerre": {
+          "Players": [
+            {
+              "Name": "Mamadou Sakho",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Lassine Sinayoko",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Wilfried Kanga",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Sonny Laiton",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Yattara Saliou",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jordan Adeoti",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Carlens Arcus",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Franck Honorat",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Jean-Marc Furlan",
+          "Stadium": "Stade de l'Abbé-Deschamps"
+        },
+        "AJ Auxerre": {
+          "Players": [
+            {
+              "Name": "Mamadou Sakho",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Lassine Sinayoko",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Wilfried Kanga",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Sonny Laiton",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Yattara Saliou",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jordan Adeoti",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Carlens Arcus",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Franck Honorat",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Jean-Marc Furlan",
+          "Stadium": "Stade de l'Abbé-Deschamps"
+        },
+        "Sochaux": {
+          "Players": [
+            {
+              "Name": "Thomas Touré",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Valentin Gendrey",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Moussa Sao",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Maxence Prévot",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Ousseynou Thioune",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jason Pendant",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Rasolofonirina Roland",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Christopher Rocchia",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Omar Daf",
+          "Stadium": "Stade Auguste-Bonal"
+        }
+      }
+    }
+  },
+  "Spain": {
+    "La Liga": {
+      "Teams": {
+        "Real Madrid": {
+          "Players": [
+            {
+              "Name": "Karim Benzema",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Sergio Ramos",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Luka Modrić",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Thibaut Courtois",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Vinícius Júnior",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Ferland Mendy",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Isco",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Éder Militão",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Carlo Ancelotti",
+          "Stadium": "Santiago Bernabéu"
+        },
+        "FC Barcelona": {
+          "Players": [
+            {
+              "Name": "Lionel Messi",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Gerard Piqué",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Frenkie de Jong",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Marc-André ter Stegen",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Ansu Fati",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jordi Alba",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Sergio Busquets",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Ronald Araújo",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Xavi Hernandez",
+          "Stadium": "Camp Nou"
+        },
+        "Atlético Madrid": {
+          "Players": [
+            {
+              "Name": "Luis Suárez",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Koke",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "José María Giménez",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Jan Oblak",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "João Félix",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Renan Lodi",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Saúl Ñíguez",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Stefan Savić",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Diego Simeone",
+          "Stadium": "Estadio Wanda Metropolitano"
+        },
+        "Sevilla FC": {
+          "Players": [
+            {
+              "Name": "Youssef En-Nesyri",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Jules Koundé",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Joan Jordán",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Bono",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Lucas Ocampos",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Diego Carlos",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Papu Gómez",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Fernando",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Julen Lopetegui",
+          "Stadium": "Estadio Ramón Sánchez-Pizjuán"
+        },
+        "Valencia CF": {
+          "Players": [
+            {
+              "Name": "Gonçalo Guedes",
+              "Position": "Forward"
+            },
+            {
+              "Name": "José Gayà",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Carlos Soler",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Jasper Cillessen",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Maxi Gómez",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Hugo Guillamón",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Daniel Wass",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Uros Račić",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "José Bordalás",
+          "Stadium": "Mestalla"
+        }
+      }
+    },
+    "Segunda División": {
+      "Teams": {
+        "Real Zaragoza": {
+          "Players": [
+            {
+              "Name": "Juanjo Narváez",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Alberto Zapater",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Carlos Vigaray",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Álvaro Ratón",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "James Igbekeme",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Javi Ros",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Aleix Febas",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Carlos Nieto",
+              "Position": "Defender"
+            }
+          ],
+          "Coach": "Iván Martínez",
+          "Stadium": "La Romareda"
+        },
+        "Deportivo La Coruña": {
+          "Players": [
+            {
+              "Name": "Keko Gontán",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Borja Granero",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Carlos Abad",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Miku",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Bergantiños",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Uche Agbo",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Héctor Hernández",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Borja Galán",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Rubén de la Barrera",
+          "Stadium": "Estadio Municipal de Riazor"
+        },
+        "Deportivo La Coruña": {
+          "Players": [
+            {
+              "Name": "Keko Gontán",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Borja Granero",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Carlos Abad",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Miku",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Bergantiños",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Uche Agbo",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Héctor Hernández",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Borja Galán",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Rubén de la Barrera",
+          "Stadium": "Estadio Municipal de Riazor"
+        },
+        "Girona FC": {
+          "Players": [
+            {
+              "Name": "Samu Sáiz",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Bernardo Espinosa",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Aarón Ñíguez",
+              "Position": "Forward"
+            },
+            {
+              "Name": "Juan Carlos",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Borja García",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Pablo Maffeo",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Gustavo Cabral",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Monchu",
+              "Position": "Midfielder"
+            }
+          ],
+          "Coach": "Francisco",
+          "Stadium": "Estadi Montilivi"
+        },
+        "Real Oviedo": {
+          "Players": [
+            {
+              "Name": "Marco Sangalli",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Carlos Hernández",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Alejandro Arribas",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Femenías",
+              "Position": "Goalkeeper"
+            },
+            {
+              "Name": "Christian Fernández",
+              "Position": "Defender"
+            },
+            {
+              "Name": "Lolo González",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Marco Valiente",
+              "Position": "Midfielder"
+            },
+            {
+              "Name": "Nahuel Leiva",
+              "Position": "Forward"
+            }
+          ],
+          "Coach": "Andoni Iraola",
+          "Stadium": "Estadio Carlos Tartiere"
+        }
+      }
+    }
+  }
+}
