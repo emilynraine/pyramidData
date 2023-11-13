@@ -1,0 +1,23 @@
+[
+  {
+    "Name": "England",
+    "Leagues": [
+      {
+        "Name": "English Premier League",
+        "Clubs": [
+          {
+            "Name": "Arsenal",
+            "Players": [
+              {
+                "Name": "Pierre-Emerick Aubameyang",
+                "Position": "Forward"
+              }
+            ],
+            "Coach": "Mikel Arteta",
+            "Stadium": "Emirates Stadium"
+          }
+        ]
+      }
+    ]
+  }
+]
