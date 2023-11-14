@@ -1,6 +1,7 @@
 [
   {
     "Name": "England",
+    "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png?20220120162234",
     "Leagues": [
       {
         "Name": "English Premier League",
@@ -830,6 +831,7 @@
   },
   {
     "Name": "Germany",
+    "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png?20220120162234",
     "Leagues": [
       {
         "Name": "Bundesliga",
@@ -1279,6 +1281,7 @@
   },
   {
     "Name": "France",
+    "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png?20220120162234",
     "Leagues": [
       {
         "Name": "Ligue 1",
@@ -1688,6 +1691,7 @@
   },
   {
     "Name": "Spain",
+    "Image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png?20220120162234",
     "Leagues": [
       {
         "Name": "La Liga",
